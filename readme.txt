@@ -11,3 +11,5 @@ git merge master
 git push -> si imi da el comanda de push pe care o copiez
 
 git pull origin master -> ca sa iau versiunea up to date in caz ca au mai fost updates
+
+# small update for branch commit?
